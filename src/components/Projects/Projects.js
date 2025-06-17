@@ -28,7 +28,7 @@ function Projects() {
               title="Portfoliyo Using Html,css,Bootstrap"
               description="This is a responsive portfolio website designed and developed using HTML, CSS, and Bootstrap 5. The goal of this project is to create a clean, modern, and professional-looking personal portfolio that highlights a developer's skills, projects, resume, and contact information.The website layout adapts to all screen sizes using Bootstrap’s grid system and responsive utilities, ensuring it looks great on desktops, tablets, and mobile devices.."
               ghLink="https://github.com/DakshPatel6751/portfoliyo-Project"
-              // demoLink="http://127.0.0.1:5502/index.html"
+              demoLink="https://portfoliyo-project.vercel.app/"
             />
           </Col>
 
