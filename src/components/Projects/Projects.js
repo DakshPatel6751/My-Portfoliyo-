@@ -31,9 +31,9 @@ function Projects() {
               demoLink="https://portfoliyo-project.vercel.app/"
             />
           </Col>
-                 <Col md={4} className="project-card">
+                <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={watch}
               isBlog={false}
               title="i Watch "
               description="The Apple Watch, commonly referred to as the iWatch, is a line of smartwatches designed and manufactured by Apple Inc. It combines advanced technology with elegant design, offering a range of features to help users stay connected, monitor their health, and manage daily tasks efficiently.."
@@ -43,7 +43,7 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={sharktenk}
               isBlog={false}
               title="Shark Tenk "
               description="Shark Tank is a popular American television show where aspiring entrepreneurs pitch their business ideas to a panel of wealthy investors, known as the “Sharks,” in hopes of securing investment funding. The show offers a platform for inventors, small business owners, and startups to present their products or services and negotiate deals."
@@ -53,7 +53,7 @@ function Projects() {
           </Col>
             <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={heppentance}
               isBlog={false}
               title="Heppentance "
               description="Heppentance is a popular website."
@@ -63,7 +63,7 @@ function Projects() {
           </Col>
             <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={chariter}
               isBlog={false}
               title="Chariter"
               description="Chariter is a modern, responsive website designed for charity organizations, non-profits, fundraising campaigns, and humanitarian causes. Built to inspire trust and compassion, Chariter helps organizations connect with supporters, share their mission, and collect donations online."
@@ -73,7 +73,7 @@ function Projects() {
           </Col>
            <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={dento}
               isBlog={false}
               title="Dento"
               description="Dento is a clean, professional, and user-friendly dental clinic website designed to provide patients with easy access to quality dental care information and services. Built with modern aesthetics and responsive design, Dento is perfect for dentists, dental clinics, and oral healthcare providers."
